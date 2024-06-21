@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 980de471-37a9-4d65-aec5-9d1b31c4e437
+      url: 'https://ivy-spratt.quarto.pub/dementia'
