@@ -1,0 +1,12 @@
+---
+title: "Dementia Statistics"
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+x<- read.csv("dementia_patients_health_data.csv")
+```
+
